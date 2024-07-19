@@ -1,5 +1,7 @@
 # Python_Project_Admin-Login Sql
 
+![asdasd](https://github.com/user-attachments/assets/d43792bd-c382-4520-a7b8-833303ff6e1f)
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -71,4 +73,3 @@ ALTER TABLE `License_user`
   MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
 
 COMMIT;
-![asdasd](https://github.com/user-attachments/assets/d43792bd-c382-4520-a7b8-833303ff6e1f)
