@@ -2,7 +2,7 @@
 
 ![asdasd](https://github.com/user-attachments/assets/d43792bd-c382-4520-a7b8-833303ff6e1f)
 
-
+ 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
